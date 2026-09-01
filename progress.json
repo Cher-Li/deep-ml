@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:52:34.996Z",
+  "generated_at": "2026-10-14T13:52:37.309Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -96,6 +96,119 @@
       "last_pushed_at": "2026-08-31T14:54:27.346Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-01T15:17:28.179Z",
+      "last_pushed_at": "2026-09-01T15:17:28.179Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-09-01T15:18:19.024Z",
+      "last_pushed_at": "2026-09-01T15:18:19.024Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-01T15:22:42.291Z",
+      "last_pushed_at": "2026-09-01T15:22:42.291Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-01T17:22:54.436Z",
+      "last_pushed_at": "2026-09-01T17:22:54.436Z",
+      "language": "python",
+      "lines": 18
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-01T17:25:44.946Z",
+      "last_pushed_at": "2026-09-01T17:25:44.946Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-01T17:28:13.771Z",
+      "last_pushed_at": "2026-09-01T17:28:13.771Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-09-01T17:30:06.240Z",
+      "last_pushed_at": "2026-09-01T17:30:06.240Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:312": {
+      "kind": "problem",
+      "id": "312",
+      "title": "Quotient Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/312",
+      "path": "problems/0312-quotient-rule-for-derivatives",
+      "first_solved_at": "2026-09-01T17:36:14.013Z",
+      "last_pushed_at": "2026-09-01T17:36:14.013Z",
+      "language": "python",
+      "lines": 70
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-09-01T17:38:04.705Z",
+      "last_pushed_at": "2026-09-01T17:38:04.705Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
