@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:52:44.087Z",
+  "generated_at": "2026-10-14T13:52:47.485Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -412,6 +412,78 @@
       "last_pushed_at": "2026-09-04T23:20:24.348Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-09-05T00:08:50.347Z",
+      "last_pushed_at": "2026-09-05T00:08:50.347Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-09-05T15:30:32.395Z",
+      "last_pushed_at": "2026-09-05T15:30:32.395Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2026-09-05T15:42:04.423Z",
+      "last_pushed_at": "2026-09-05T15:42:04.423Z",
+      "language": "python",
+      "lines": 20
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-09-05T15:52:38.171Z",
+      "last_pushed_at": "2026-09-05T15:52:38.171Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-09-05T22:01:58.344Z",
+      "last_pushed_at": "2026-09-05T22:01:58.344Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-09-05T22:03:14.865Z",
+      "last_pushed_at": "2026-09-05T22:03:14.865Z"
     }
   }
 }
