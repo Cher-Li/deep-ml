@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:52:47.485Z",
+  "generated_at": "2026-10-14T13:52:49.975Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -484,6 +484,54 @@
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-09-05T22:03:14.865Z",
       "last_pushed_at": "2026-09-05T22:03:14.865Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-09-06T19:35:48.591Z",
+      "last_pushed_at": "2026-09-06T19:35:48.591Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-06T22:09:09.912Z",
+      "last_pushed_at": "2026-09-06T22:09:09.912Z"
+    },
+    "problem:215": {
+      "kind": "problem",
+      "id": "215",
+      "title": "Partial Derivatives of Multivariable Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/215",
+      "path": "problems/0215-partial-derivatives-of-multivariable-functions",
+      "first_solved_at": "2026-09-06T23:09:03.722Z",
+      "last_pushed_at": "2026-09-06T23:09:03.722Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:214": {
+      "kind": "problem",
+      "id": "214",
+      "title": "Chain Rule for Composite Functions",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/214",
+      "path": "problems/0214-chain-rule-for-composite-functions",
+      "first_solved_at": "2026-09-06T23:16:08.271Z",
+      "last_pushed_at": "2026-09-06T23:16:08.271Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
