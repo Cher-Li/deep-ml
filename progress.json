@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:52:55.893Z",
+  "generated_at": "2026-10-14T13:53:07.572Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -756,6 +756,39 @@
       "last_pushed_at": "2026-09-10T20:57:29.404Z",
       "language": "python",
       "lines": 38
+    },
+    "math:37": {
+      "kind": "math",
+      "id": "37",
+      "title": "Taylor Expansions and Local Quadratic Models",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/37",
+      "path": "math/0037-taylor-expansions-and-local-quadratic-models",
+      "first_solved_at": "2026-09-11T17:09:37.586Z",
+      "last_pushed_at": "2026-09-11T17:09:37.586Z"
+    },
+    "math:6": {
+      "kind": "math",
+      "id": "6",
+      "title": "Optimization: Convexity and Critical Points",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/6",
+      "path": "math/0006-optimization-convexity-and-critical-points",
+      "first_solved_at": "2026-09-11T17:15:33.709Z",
+      "last_pushed_at": "2026-09-11T17:15:33.709Z"
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-09-11T17:20:14.194Z",
+      "last_pushed_at": "2026-09-11T17:20:14.194Z"
     }
   }
 }
