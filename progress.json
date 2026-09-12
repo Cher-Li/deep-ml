@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:53:07.572Z",
+  "generated_at": "2026-10-14T13:53:10.474Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -789,6 +789,41 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-09-11T17:20:14.194Z",
       "last_pushed_at": "2026-09-11T17:20:14.194Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-09-12T22:20:48.696Z",
+      "last_pushed_at": "2026-09-12T22:20:48.696Z"
+    },
+    "math:31": {
+      "kind": "math",
+      "id": "31",
+      "title": "Regularization and Generalization",
+      "difficulty": "medium",
+      "category": "Bias-variance and L2 penalty",
+      "url": "https://www.deep-ml.com/math-problems/31",
+      "path": "math/0031-regularization-and-generalization",
+      "first_solved_at": "2026-09-12T22:26:46.453Z",
+      "last_pushed_at": "2026-09-12T22:26:46.453Z"
+    },
+    "problem:201": {
+      "kind": "problem",
+      "id": "201",
+      "title": "QR Decomposition",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/201",
+      "path": "problems/0201-qr-decomposition",
+      "first_solved_at": "2026-09-12T22:39:09.649Z",
+      "last_pushed_at": "2026-09-12T22:39:09.649Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
