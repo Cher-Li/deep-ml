@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:53:10.474Z",
+  "generated_at": "2026-10-14T13:53:12.923Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -824,6 +824,45 @@
       "last_pushed_at": "2026-09-12T22:39:09.649Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:333": {
+      "kind": "problem",
+      "id": "333",
+      "title": "LU Decomposition of a Square Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/333",
+      "path": "problems/0333-lu-decomposition-of-a-square-matrix",
+      "first_solved_at": "2026-09-13T17:40:12.226Z",
+      "last_pushed_at": "2026-09-13T17:40:12.226Z",
+      "language": "python",
+      "lines": 61
+    },
+    "problem:332": {
+      "kind": "problem",
+      "id": "332",
+      "title": "Check if Matrix is Positive Definite",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/332",
+      "path": "problems/0332-check-if-matrix-is-positive-definite",
+      "first_solved_at": "2026-09-13T17:53:19.472Z",
+      "last_pushed_at": "2026-09-13T17:53:19.472Z",
+      "language": "python",
+      "lines": 74
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-09-13T18:01:13.857Z",
+      "last_pushed_at": "2026-09-13T18:01:13.857Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
