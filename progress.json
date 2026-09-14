@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:53:12.923Z",
+  "generated_at": "2026-10-14T13:53:15.258Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -863,6 +863,52 @@
       "last_pushed_at": "2026-09-13T18:01:13.857Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:311": {
+      "kind": "problem",
+      "id": "311",
+      "title": "Classify Critical Points Using Hessian Eigenvalues",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/311",
+      "path": "problems/0311-classify-critical-points-using-hessian-eigenvalues",
+      "first_solved_at": "2026-09-14T17:46:03.441Z",
+      "last_pushed_at": "2026-09-14T17:46:03.441Z",
+      "language": "python",
+      "lines": 51
+    },
+    "math:24": {
+      "kind": "math",
+      "id": "24",
+      "title": "Information Theory: Entropy",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/24",
+      "path": "math/0024-information-theory-entropy",
+      "first_solved_at": "2026-09-14T17:47:17.124Z",
+      "last_pushed_at": "2026-09-14T17:47:17.124Z"
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-09-14T17:52:20.355Z",
+      "last_pushed_at": "2026-09-14T17:52:20.355Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-09-14T17:54:00.522Z",
+      "last_pushed_at": "2026-09-14T17:54:00.522Z"
     }
   }
 }
