@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 49 problems · 1 labs · 35 math
+**86** solved · 50 problems · 1 labs · 35 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-09-13 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-09-14 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-09-13 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-09-23 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-09-09 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-08 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-08 | [solution](problems/0219-derivative-of-softmax) |
