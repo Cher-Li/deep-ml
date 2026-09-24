@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:53:38.503Z",
+  "generated_at": "2026-10-14T13:53:40.799Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -1048,6 +1048,32 @@
       "last_pushed_at": "2026-09-23T13:01:16.520Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2026-09-24T15:02:44.581Z",
+      "last_pushed_at": "2026-09-24T15:02:44.581Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2026-09-24T15:06:38.040Z",
+      "last_pushed_at": "2026-09-24T15:06:38.040Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
