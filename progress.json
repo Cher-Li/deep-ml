@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:53:40.799Z",
+  "generated_at": "2026-10-14T13:53:43.356Z",
   "items": {
     "lab:15": {
       "kind": "lab",
@@ -1074,6 +1074,32 @@
       "last_pushed_at": "2026-09-24T15:06:38.040Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-09-25T13:20:12.185Z",
+      "last_pushed_at": "2026-09-25T13:20:12.185Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-09-25T13:27:47.278Z",
+      "last_pushed_at": "2026-09-25T13:27:47.278Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
