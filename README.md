@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 58 problems · 1 labs · 37 math
+**97** solved · 58 problems · 2 labs · 37 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Dimensionality Reduction with Sklearn](https://www.deep-ml.com/labs/15) | easy | 2026-10-13 | [solution](labs/0015-dimensionality-reduction-with-sklearn) |
+| [Train a Linear Regression Model](https://www.deep-ml.com/labs/18) | easy | 2026-10-02 | [solution](labs/0018-train-a-linear-regression-model) |
 
 ## Math
 
