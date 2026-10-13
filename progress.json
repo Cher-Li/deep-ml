@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-13T15:14:15.639Z",
+  "items": {
+    "lab:15": {
+      "kind": "lab",
+      "id": "15",
+      "title": "Dimensionality Reduction with Sklearn",
+      "difficulty": "easy",
+      "category": "Dimensionality Reduction",
+      "url": "https://www.deep-ml.com/labs/15",
+      "path": "labs/0015-dimensionality-reduction-with-sklearn",
+      "first_solved_at": "2026-10-13T15:14:10.910Z",
+      "last_pushed_at": "2026-10-13T15:14:10.910Z",
+      "language": "python",
+      "lines": 55
+    }
+  }
+}
