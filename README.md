@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 61 problems · 2 labs · 38 math
+**102** solved · 61 problems · 2 labs · 39 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-09-03 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-01 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-08-31 | [solution](math/0009-matrix-basics) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-11-04 | [solution](math/0030-ml-workflow-basics) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-02 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-31 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-06 | [solution](math/0004-backpropagation-and-the-chain-rule) |
