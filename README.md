@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**115** solved · 73 problems · 2 labs · 40 math
+**116** solved · 74 problems · 2 labs · 40 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-03 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-01 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-05 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-11-18 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-09-17 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-20 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-02 | [solution](problems/0015-linear-regression-using-gradient-descent) |
